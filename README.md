@@ -1,3 +1,4 @@
 # Sentiment-Analysis-on-Social-Media
-This repository represent "Sentiment-Analysis-on-Social-Media".
-With the help of this project we can determine the Sentiment or emotion expressed in a piece of text, such as Social Media.
+•	This repository represents "Sentiment-Analysis-on-Social-Media".
+•	With the help of this project, we can determine the Sentiment or emotion expressed in a piece of text, such as social media.
+
