@@ -7,12 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1HqVGRnbIroPtJk4IpVw3JVxf5De0W3Hd
 """
 
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-#This above line is used to install the PyTorch library, along with its associated packages torchvision and torchaudio, using the Python package manager pip.
-pip install transformers requests beautifulsoup4
-#The transformers package provides pre-trained models for various NLP tasks, such as text classification, translation, and text generation.
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118    
+#This above line is used to install the PyTorch library, along with its associated packages torchvision and torchaudio, using the Python package manager pip.    
+pip install transformers requests beautifulsoup4    
+#The transformers package provides pre-trained models for various NLP tasks, such as text classification, translation, and text generation.    
 #The requests library is commonly used for making HTTP requests in Python.
-#BeautifulSoup is a Python library for web scraping and parsing HTML and XML documents. It's used to extract information from web pages, such as scraping data from websites or parsing HTML documents for specific content.
+#BeautifulSoup is a Python library for web scraping and parsing HTML and XML documents. It's used to extract information from web pages, such as scraping data from websites or parsing HTML documents for specific content.    
 import pandas as pd
 import numpy as np
 import torch
